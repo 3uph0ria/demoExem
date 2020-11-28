@@ -1,0 +1,14 @@
+D:\Git\demoExem\application\Подай на 16\Подай на 16\bin\Debug\Подай на 16.exe.config
+D:\Git\demoExem\application\Подай на 16\Подай на 16\bin\Debug\Подай на 16.exe
+D:\Git\demoExem\application\Подай на 16\Подай на 16\bin\Debug\Подай на 16.pdb
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Poday_na_16.csprojAssemblyReference.cache
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.sandbox.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.AddService.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.Admin.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.Client.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.UpdateService.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.Properties.Resources.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.signin.resources
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Poday_na_16.csproj.GenerateResource.cache
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай на 16.exe
+D:\Git\demoExem\application\Подай на 16\Подай на 16\obj\Debug\Подай на 16.pdb
