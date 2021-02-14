@@ -14,7 +14,7 @@ namespace Подай_на_16.Class
         {
             Database.CloseConnection();
             Database.OpenConnection();
-            string sqlLine = @"SELECT * FROM Service";
+            string sqlLine = @"SELECT * FROM Services";
             SqlCommand commend = new SqlCommand(sqlLine, Database.myConnection);
             SqlDataReader service = commend.ExecuteReader();
             return service;

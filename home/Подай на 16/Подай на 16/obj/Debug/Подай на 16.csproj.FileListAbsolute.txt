@@ -1,0 +1,14 @@
+D:\Git\demoExem\home\Подай на 16\Подай на 16\bin\Debug\Подай на 16.exe.config
+D:\Git\demoExem\home\Подай на 16\Подай на 16\bin\Debug\Подай на 16.exe
+D:\Git\demoExem\home\Подай на 16\Подай на 16\bin\Debug\Подай на 16.pdb
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай на 16.csprojAssemblyReference.cache
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.signin.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.Properties.Resources.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.sandBox.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай на 16.csproj.GenerateResource.cache
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай на 16.exe
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай на 16.pdb
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.Client.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.admin.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.classes.Comingrecords.resources
+D:\Git\demoExem\home\Подай на 16\Подай на 16\obj\Debug\Подай_на_16.forms.test.resources

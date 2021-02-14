@@ -86,6 +86,11 @@
     <Compile Include="forms\UpdateService.Designer.cs">
       <DependentUpon>UpdateService.cs</DependentUpon>
     </Compile>
+    <Compile Include="poday_na_16DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>poday_na_16DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="forms\sandbox.resx">
@@ -116,6 +121,17 @@
     <EmbeddedResource Include="forms\Signin.resx">
       <DependentUpon>Signin.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="poday_na_16DataSet.xsc">
+      <DependentUpon>poday_na_16DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="poday_na_16DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>poday_na_16DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="poday_na_16DataSet.xss">
+      <DependentUpon>poday_na_16DataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

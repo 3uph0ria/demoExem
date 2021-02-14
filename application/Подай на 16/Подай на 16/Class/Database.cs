@@ -16,7 +16,7 @@ namespace Подай_на_16.Class
         }
         public SqlConnection Connect()
         {
-            SqlConnection myConnection = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=Data_Dictionary;Integrated Security=True");
+            SqlConnection myConnection = new SqlConnection(@"Data Source=.\SQLExpress;Initial Catalog=poday_na_16;Integrated Security=True");
             return myConnection;
         }
 

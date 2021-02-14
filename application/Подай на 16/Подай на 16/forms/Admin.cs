@@ -227,11 +227,10 @@ namespace Подай_на_16.forms
                     // Получаем значения из БД
                     object Id = services.GetValue(0);
                     object Title = services.GetValue(1);
-                    object Cost = services.GetValue(2);
+                    object Cost = services.GetValue(4);
                     object DurationInSeconds = services.GetValue(3);
-                    object Description = services.GetValue(4);
                     object Discount = services.GetValue(5);
-                    object MainImagePath = services.GetValue(6);
+                    object MainImagePath = services.GetValue(2);
                     string MainPathImg = Convert.ToString(MainImagePath);
 
 
@@ -255,7 +254,7 @@ namespace Подай_на_16.forms
 
                     char[] charsToTrim = { ' ' };
                     string result = MainPathImg.Trim(charsToTrim);
-                    serviceImg.BackgroundImage = Image.FromFile(".\\" + result);
+                    serviceImg.BackgroundImage = Image.FromFile("" + result);
 
                     TableLayoutPanel.Controls.Add(panelImg, 0, i);
 
